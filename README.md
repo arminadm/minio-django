@@ -1,1 +1,1 @@
-# django-pets-image
+# minio-django

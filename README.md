@@ -1,0 +1,1 @@
+# django-pets-image
